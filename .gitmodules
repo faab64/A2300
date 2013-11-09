@@ -1,3 +1,0 @@
-[submodule "host/extern/uhd/uhd"]
-	path = host/extern/uhd/uhd
-	url = https://github.com/EttusResearch/uhd.git
